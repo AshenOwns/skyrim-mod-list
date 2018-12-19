@@ -260,7 +260,7 @@ This is my personal list of modifications I use while playing in the world of Ta
 
 ## Load Order
 
-```python
+```
   0  0     Skyrim.esm
   1  1     Update.esm
   2  2     Dawnguard.esm
